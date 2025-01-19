@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sai-sasank09
 - 👀 I’m interested in making web designs.
-- 🌱 I’m currently learning Java,Python and backend.
+- 🌱 I’m currently learning in more detail on Java backend.
 - 💞️ I’m looking to collaborate on designing websites
 - 📫 How to reach me ...saisasankpabbaraju@gmail.com
 
