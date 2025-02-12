@@ -20,20 +20,23 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-sasank09&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sasank09&theme=tokyonight" width="48%" alt="GitHub Streak"/>
+  <a href="https://github.com/sai-sasank09">
+    <img src="https://github-readme-stats.vercel.app/api?username=sai-sasank09&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/sai-sasank09">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sasank09&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-sasank09&layout=compact&theme=tokyonight" width="48%" alt="Top Languages"/>
+  <a href="https://github.com/sai-sasank09">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-sasank09&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
+  </a>
 </p>
 
----
 
 ## **📫 Connect With Me**  
 🔹 **LinkedIn:** [Sanjeev Sai Sasank]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanjeev-sai-sasank-pabbaraju-6b0b3b251/))  
