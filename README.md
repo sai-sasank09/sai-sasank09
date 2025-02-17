@@ -1,11 +1,10 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey,+I'm+Sanjeev+Sai+Sasank!;Software+Developer+%7C+Java+%7C+Spring+Boot;Microservices+%7C+ReactJS+%7C+Cloud+☁️🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey,+I'm+Sanjeev+Sai+Sasank!;Software+Developer+%7C+Java+%7C+Spring+Boot;Microservices+%7C+ReactJS+%7C+Cloud+☁️🚀" />
 </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sai-sasank09/sai-sasank09/main/assets/coding.gif" width="40%" alt="Coding Animation"/>
 </p>
-
 ---
 
 ## 🚀 About Me
