@@ -32,7 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sai-sasank09&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/sai-sasank09">
-    <img src="https://streak-stats.demolab.com?user=sai-sasank09&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sasank09&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -42,7 +42,6 @@
   </a>
 </p>
 
----
 
 ## ⚡ Fun Facts
 - 💻 **I code daily** to sharpen my skills 🏆  
